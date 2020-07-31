@@ -8,7 +8,7 @@ This is a simple call chat app built with peerjs (WebRTC)
   <li> Open index.html with your prefered browser </li>
 </ul>
 
-<h1> Wanna Try ? </h1>
+<h1> How to use it ? </h1>
 <hr>
 <ul>
   <li> Send the link to your friend! </li>
